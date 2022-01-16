@@ -1,0 +1,35 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    min-height: 100vh;
+    background-image: url(https://unsplash.it/1500/1000?image=881&blur=5);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.clock {
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    background-color: transparent;
+    border: 12px solid white;
+    box-shadow: 1px 1px 8px 0px;
+    position: relative;
+}
+.hand {
+    width: 44%;
+    height: 5px;
+    background-color: #121212;
+    position: absolute;
+    top: 50%;
+    left: 3%;
+    transform-origin: right;
+}
