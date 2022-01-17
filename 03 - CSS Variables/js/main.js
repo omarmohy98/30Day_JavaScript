@@ -1,16 +1,13 @@
 let inputs = document.querySelectorAll("input");
-let img = document.querySelector("img");
-let markedEle = document.querySelector(".mark");
 inputs.forEach((ele) => {
     ele.addEventListener("change", updateValue);
 });
+inputs.forEach((ele) => {
+    ele.addEventListener("mousemove", updateValue);
+});
 function updateValue() {
-    if (this.name === "space-input") {
-        img.style.cssText = `padding: ${this.value}px`;
-    } else if (this.name === "blur-input") {
-        img.style.cssText = `filter: blur(${this.value}px)`;
-    } else if (this.name === "base-color") {
-        img.style.cssText = `background-color: ${this.value}`;
-        markedEle.style.cssText = `color: ${ele.value}`;
-    }
+    document.styleSheets[0].rules[1].style.setProperty(
+        `--${this.name}`,
+        `${this.value + this.getAttribute("data-unit")}`
+    );
 }
