@@ -3,3 +3,4 @@ This repository is the solution of 30 Day Vanilla JS Coding Challenge from(https
 1. Drum Kit [Live Demo](https://drum-kit.onrender.com)
 2. JS+CSS Clock [Live Demo](https://js-and-css-clock.onrender.com)
 3. CSS Variables [Live Demo](https://css-variables.onrender.com)
+4. Array Cardio Day1
