@@ -6,3 +6,4 @@ This repository is the solution of 30 Day Vanilla JS Coding Challenge from(https
 4. Array Cardio Day1
 5. Flex Panel Gallery [Live Demo](https://flex-panel-gallery.onrender.com)
 6. AJAX Type Ahead [Live Demo](https://search-cities.onrender.com)
+7. Array Cardio Day2
