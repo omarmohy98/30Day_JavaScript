@@ -1,10 +1,12 @@
 # 30Day_JavaScript
 This repository is the solution of 30 Day Vanilla JS Coding Challenge from(https://javascript30.com/)
-1. Drum Kit [Live Demo](https://drum-kit.onrender.com)
-2. JS+CSS Clock [Live Demo](https://js-and-css-clock.onrender.com)
-3. CSS Variables [Live Demo](https://css-variables.onrender.com)
+1. Drum Kit
+2. JS+CSS Clock
+3. CSS Variables
 4. Array Cardio Day1
-5. Flex Panel Gallery [Live Demo](https://flex-panel-gallery.onrender.com)
-6. AJAX Type Ahead [Live Demo](https://search-cities.onrender.com)
+5. Flex Panel Gallery
+6. AJAX Type Ahead
 7. Array Cardio Day2
-8. Fun with HTML5 Canvas [Live Demo](https://fun-with-html5-canvas.onrender.com)
+8. Fun with HTML5 Canvas
+9. Dev Tools Domination
+10. Hold Shift and Check
