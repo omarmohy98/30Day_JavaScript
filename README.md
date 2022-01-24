@@ -10,3 +10,5 @@ This repository is the solution of 30 Day Vanilla JS Coding Challenge from(https
 8. Fun with HTML5 Canvas
 9. Dev Tools Domination
 10. Hold Shift and Check
+11. Custom Video Player
+12. Key Sequence Detection
