@@ -14,3 +14,5 @@ This repository is the solution of 30 Day Vanilla JS Coding Challenge from(https
 12. Key Sequence Detection [Live Demo](https://key-sequence-detection.onrender.com)
 13. Slide in on Scroll [Live Demo](https://slide-in-on-scroll.onrender.com)
 14. Javascript References VS Copying
+15. LocalStorage [Live Demo](https://local-storage.onrender.com)
+16. Mouse Move Shadow [Live Demo](https://mouse-move-shadow.onrender.com)
