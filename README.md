@@ -16,3 +16,5 @@ This repository is the solution of 30 Day Vanilla JS Coding Challenge from(https
 14. Javascript References VS Copying
 15. LocalStorage [Live Demo](https://local-storage.onrender.com)
 16. Mouse Move Shadow [Live Demo](https://mouse-move-shadow.onrender.com)
+17. Sort without Articles [Live Demo](https://sort-without-articles.onrender.com)
+18. Adding up Times using Reduce [Live Demo](https://adding-up-times-using-reduce.onrender.com)

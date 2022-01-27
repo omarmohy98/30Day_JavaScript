@@ -1,0 +1,48 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.videos-container {
+    min-height: 100vh;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.video-container {
+    width: 30%;
+    height: 250px;
+    margin: 0 auto 20px;
+    background-color: #1212122a;
+    color: #121212;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 25px;
+    border-radius: 8px;
+    font-size: 1.5em;
+}
+.video-container span {
+    font-size: 0.5em;
+    font-weight: 100;
+}
+.display {
+    width: 90%;
+    margin: 30px auto;
+    text-align: center;
+    line-height: 1.5;
+    font-size: 2em;
+}
+.mark {
+    color: rgba(37, 0, 248, 0.8);
+}
+@media (max-width: 700px) {
+    .video-container {
+        width: 80%;
+    }
+}
